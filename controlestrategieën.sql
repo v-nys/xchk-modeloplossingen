@@ -8,4 +8,3 @@ VALUES
 ('Programmeren'),
 ('Databanken'),
 ('Webtechnologie');
-`
